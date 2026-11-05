@@ -3,3 +3,4 @@ var googleDocURL = 'https://docs.google.com/spreadsheets/d/1WSUw2VwbAIJ_Brxz4W00
 
 // insert your own Google Sheets API key from https://console.developers.google.com
 var googleApiKey = 'AIzaSyAtJarj0kmrj8KxD8kHrTjwhsEMiCTwJ94';
+
